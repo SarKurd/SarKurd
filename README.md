@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SarKurd/SarKurd/master/bb.gif"  alt="Big Boss approves" />
+  <img src="https://cdn.countryflags.com/thumbs/palestine/flag-800.png"  alt="" />
  </p>
